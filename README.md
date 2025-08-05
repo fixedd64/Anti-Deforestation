@@ -6,7 +6,7 @@ it's an example of demonstration of using GitHub Pages
 -easy deployment
 -documentation in comfortable form Markdown
 
-## instalizatin
+## instalization
 1. clone repository
 2. open "index.html" in your browser
 
